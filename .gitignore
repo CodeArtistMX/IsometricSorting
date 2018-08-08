@@ -1,9 +1,9 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+IsometricSorting/[Ll]ibrary/
+IsometricSorting/[Tt]emp/
+IsometricSorting/[Oo]bj/
+IsometricSorting/[Bb]uild/
+IsometricSorting/[Bb]uilds/
+IsometricSorting/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
