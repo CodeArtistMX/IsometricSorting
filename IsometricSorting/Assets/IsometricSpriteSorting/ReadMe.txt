@@ -9,11 +9,10 @@ You can also delete (or modify) everything in the DemoExtras, is not necessary f
 
 
 /// Credit: 
-This asset is completely free for anyone to use.  (MIT License)
 Credit is not necessary but very appreciated. 
 There is also a link for donations in my website if you feel generous.
 If you got more questions, I made an In-Depth article at: https://codeartist.mx/tutorials/isometric-sorting
-You can also contribute to make this asset better at the git project repository: https://github.com/CodeArtistMX/IsometricSorting
+You can also contribute to following versions of this asset at the Git repository: https://github.com/CodeArtistMX/IsometricSorting
 
 Good luck in your project!
 Rodrigo Fernandez Diaz
