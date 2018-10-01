@@ -1,7 +1,7 @@
 # Isometric Sprite Sorting
 A Unity Editor script that sorts the sprites in a scene in a Isometric perspective.
 
-<h1><b>How to use this asset</b></h1>:
+<h1><b>How to use this asset</b></h1>
 <ul>
   <li>Go to Window, and at the very bottom press "Isometric Sprite Sorting", this will open up the editor tool. (You should dock it to your layout)</li>
   <li>Once you are happy with your current sprite placement select the appropiate Layer and press the "Sort Sprites" button.</li>
@@ -12,10 +12,10 @@ A Unity Editor script that sorts the sprites in a scene in a Isometric perspecti
 
 
 <h1><b>Credit</b></h1>
-This asset is completely free for anyone to use. (MIT License)
-Credit is not necessary but very appreciated. 
-There is also a link for donations at my website if you feel generous.
-If you got more questions, I made an In-Depth article at: https://codeartist.mx/tutorials/isometric-sorting
-Feel free to expand this project if you desire using this repository.
+<p>This asset is completely free for anyone to use. (MIT License)</p>
+<p>Credit is not necessary but very appreciated.</p> 
+<p>There is also a link for donations at my website if you feel generous.</p>
+<p>If you got more questions, I made an In-Depth article at: https://codeartist.mx/tutorials/isometric-sorting</p>
+<p>Feel free to expand this project if you desire using this repository.</p>
 <br>
-Rodrigo Fernandez Diaz
+<p>Rodrigo Fernandez Diaz</p>
